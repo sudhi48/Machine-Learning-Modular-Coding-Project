@@ -10,6 +10,6 @@ conda activate env/ ->for cmd
 
 source activate env/ ->for Git bash
 
-3. Install requiremnts file
+3. Install requirements file
 
 pip install -r requirement.txt
